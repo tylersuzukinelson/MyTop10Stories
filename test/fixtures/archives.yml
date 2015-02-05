@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  week: 1
+  pos1: 1
+  pos2: 1
+  pos3: 1
+  pos4: 1
+  pos5: 1
+  pos6: 1
+  pos7: 1
+  pos8: 1
+  pos9: 1
+  pos10: 1
+
+two:
+  user_id: 
+  week: 1
+  pos1: 1
+  pos2: 1
+  pos3: 1
+  pos4: 1
+  pos5: 1
+  pos6: 1
+  pos7: 1
+  pos8: 1
+  pos9: 1
+  pos10: 1

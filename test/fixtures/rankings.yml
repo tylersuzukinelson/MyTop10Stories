@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  article_id: 
+  rank: 1
+  week: 1
+
+two:
+  user_id: 
+  article_id: 
+  rank: 1
+  week: 1
